@@ -1,4 +1,5 @@
-# Data-Engineering-Project
+#  Scalable Data Pipeline to Consolidate Multi - Company FMCG Data 
+
 End-to-End Data Engineering Project using Databricks, AWS S3, Spark, SQL and Medallion Architecture
 
 
